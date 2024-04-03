@@ -43,7 +43,7 @@ Back end
 
 ## Screenshots
 <div style="display:flex; justify-content: center"> 
-<img src="https://i.ibb.co/qs38wcM/dashboard.png" alt="dashboard" border="0" width=300 style="margin-right: 20px">
+<img src="./dashboard.png" alt="dashboard" border="0" width=300 style="margin-right: 20px">
 
-<img src="https://i.ibb.co/JcCg1gM/login.png" alt="login" border="0" width=300>
+<img src="./login.png" alt="login" border="0" width=300>
 </div>
