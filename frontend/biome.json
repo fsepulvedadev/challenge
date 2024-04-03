@@ -1,0 +1,20 @@
+{
+	"$schema": "https://biomejs.dev/schemas/1.6.3/schema.json",
+
+	"organizeImports": {
+		"enabled": true
+	},
+	"linter": {
+		"enabled": true,
+		"rules": {
+			"recommended": false,
+			"suspicious": {
+				"noAssignInExpressions": "off"
+			}
+		}
+	},
+
+	"files": {
+		"ignore": ["AddPayment.jsx", "PaymentProvider.jsx"]
+	}
+}
