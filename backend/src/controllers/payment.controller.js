@@ -101,7 +101,7 @@ const updatePayment = async (req, res) => {
 const deletePayment = async (req, res) => {
 	try {
 		await paymentService.delete(req.params.id);
-		res.json({ deleted: true });
+		res.status(204).json({ deleted: true });
 	} catch (error) {
 		res.status(500).json({ error: error.message });
 	}

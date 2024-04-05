@@ -27,6 +27,10 @@ Back end
 - Sequelize 6.37
 - Jsonwebtoken 9.0
 
+Test
+
+ - Todos los endpoints importantes de autentificacion y de carga de registros de pago estan testeados con Jest y Supertest.
+
 
 ## Como probar
 
